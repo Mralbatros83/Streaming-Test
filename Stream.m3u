@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0,Channel 1
+http://api.spreaker.com/listen/user/9111153/episode/latest/shoutcast.mp3
